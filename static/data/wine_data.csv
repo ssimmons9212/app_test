@@ -1,0 +1,17 @@
+ID,Attributes,Cabernet Sauvingnon,Pinot Noir,Syrah,Sangiovese,Merlot,Malbec,Sauvignon Blanc,Chardonnay,Chenin Blanc,Reisling,Gerwurtzraminer
+1,BODY,5,3,5,4,4,5,2,3,2,1,3
+2,RED FRUIT,3,5,0,5,5,2,0,0,0,0,0
+3,CITRUS FRUIT,0,0,0,0,0,0,4,4,2,5,1
+4,STONE FRUIT,0,0,0,0,0,0,0,5,5,4,3
+5,BLACK FRUIT,5,0,5,3,3,5,0,0,0,0,0
+6,FLORAL,2,5,3,0,3,3,3,2,2,3,5
+7,Minerality,0,0,0,0,0,0,4,3,3,3,1
+8,HERBACIOUS,4,3,4,4,2,2,5,0,0,1,0
+9,PEPPER,3,0,5,4,1,2,0,0,0,0,0
+10,EARTH,3,4,3,3,3,3,0,0,0,0,0
+11,BAKING SPICE,5,3,4,2,5,4,0,0,0,0,0
+12,LEATHER,3,1,3,5,2,0,0,0,0,0,0
+13,Astringent,4,2,3,4,2,2,0,0,0,0,0
+14,Ph,3,4,3,4,3,2,5,3,5,5,1
+15,ABV,4,3,4,4,4,3,3,4,3,1,4
+16,Dryness,2,2,2,1,1,2,2,2,2,3,3

@@ -1,0 +1,116 @@
+category,weight,group,type,bold red,medium Red,light red,rose,rich white,light white ,sparkling,sweet white,dessert
+meat,0.4,red meat,beef,5,2,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+meat,0.4,red meat,lamb,5,2,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+meat,0.4,red meat,venison,5,2,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+meat,0.4,cured meat,salami,2,2,5,2,0.5,0.5,2,5,2
+meat,0.4,cured meat,proscuitto,2,2,5,2,0.5,0.5,2,5,2
+meat,0.4,cured meat,bresaola,2,2,5,2,0.5,0.5,2,5,2
+meat,0.4,cured meat,bacon,2,2,5,2,0.5,0.5,2,5,2
+meat,0.4,pork,raost,2,5,0.5,2,0.5,0.5,2,0.5,0.5
+meat,0.4,pork,tenderloin,2,5,0.5,2,0.5,0.5,2,0.5,0.5
+meat,0.4,pork,pork chop,2,5,0.5,2,0.5,0.5,2,0.5,0.5
+meat,0.4,poultry,chicken,0.5,2,5,2,5,2,2,0.5,0.5
+meat,0.4,poultry,duck,0.5,2,5,2,5,2,2,0.5,0.5
+meat,0.4,poultry,turkey,0.5,2,5,2,5,2,2,0.5,0.5
+meat,0.4,mollusk,oyster,0.5,0.5,0.5,0.5,0.5,2,5,0.5,0.5
+meat,0.4,mollusk,mussel,0.5,0.5,0.5,0.5,0.5,2,5,0.5,0.5
+meat,0.4,mollusk,clam,0.5,0.5,0.5,0.5,0.5,2,5,0.5,0.5
+meat,0.4,fish,tuna,0.5,0.5,0.5,0.5,2,5,2,0.5,0.5
+meat,0.4,fish,cod,0.5,0.5,0.5,0.5,2,5,2,0.5,0.5
+meat,0.4,fish,trout,0.5,0.5,0.5,0.5,2,5,2,0.5,0.5
+meat,0.4,fish,bass,0.5,0.5,0.5,0.5,2,5,2,0.5,0.5
+meat,0.4,shellfish,lobster,0.5,0.5,0.5,2,5,2,0.5,2,0.5
+meat,0.4,shellfish,crab,0.5,0.5,0.5,2,5,2,0.5,2,0.5
+meat,0.4,shellfish,prawn,0.5,0.5,0.5,2,5,2,0.5,2,0.5
+meat,0.4,shellfish,langoustine,0.5,0.5,0.5,2,5,2,0.5,2,0.5
+preparation,0.05,option,grilled,5,2,2,0.5,0.5,0.5,2,2,0.5
+preparation,0.05,option,barbecued,5,2,2,0.5,0.5,0.5,2,2,0.5
+preparation,0.05,option,sauteed,0.5,0.5,5,2,2,2,2,0.5,0.5
+preparation,0.05,option,fried,0.5,0.5,5,2,2,2,2,0.5,0.5
+preparation,0.05,option,smoked,2,5,2,2,0.5,0.5,2,0.5,2
+preparation,0.05,option,roasted,5,2,2,2,0.5,0.5,0.5,2,0.5
+preparation,0.05,option,poached,0.5,0.5,0.5,0.5,2,5,2,2,0.5
+preparation,0.05,option,steamed,0.5,0.5,0.5,0.5,2,5,2,2,0.5
+dairy,0.2,soft cheese,brie,0.5,2,5,2,5,2,2,2,2
+dairy,0.2,soft cheese,mascarpone,0.5,2,5,2,5,2,2,2,2
+dairy,0.2,soft cheese,creme fraiche,0.5,2,5,2,5,2,2,2,2
+dairy,0.2,pungent cheese,bleu,2,5,0.5,2,0.5,2,2,2,5
+dairy,0.2,pungent cheese,gorgonzola,2,5,0.5,2,0.5,2,2,2,5
+dairy,0.2,pungent cheese,stilton,2,5,0.5,2,0.5,2,2,2,5
+dairy,0.2,pungent cheese,roquefort,2,5,0.5,2,0.5,2,2,2,5
+dairy,0.2,hard cheese,cheddar,5,2,0.5,2,2,0.5,2,0.5,0.5
+dairy,0.2,hard cheese,pecorino,5,2,0.5,2,2,0.5,2,0.5,0.5
+dairy,0.2,hard cheese,manchego,5,2,0.5,2,2,0.5,2,0.5,0.5
+dairy,0.2,hard cheese,asiago,5,2,0.5,2,2,0.5,2,0.5,0.5
+dairy,0.2,hard cheese,parmesan,5,2,0.5,2,2,0.5,2,0.5,0.5
+vegetable,0.15,alliums,onion,2,5,2,2,2,2,2,2,0.5
+vegetable,0.15,alliums,shallot ,2,5,2,2,2,2,2,2,0.5
+vegetable,0.15,alliums,garlic,2,5,2,2,2,2,2,2,0.5
+vegetable,0.15,alliums,scallion,2,5,2,2,2,2,2,2,0.5
+vegetable,0.15,green vegetables,green beans,0.5,0.5,0.5,0.5,0.5,5,2,0.5,0.5
+vegetable,0.15,green vegetables,kale,0.5,0.5,0.5,0.5,0.5,5,2,0.5,0.5
+vegetable,0.15,green vegetables,lettuce,0.5,0.5,0.5,0.5,0.5,5,2,0.5,0.5
+vegetable,0.15,root vegetables,squash,0.5,0.5,0.5,5,2,0.5,0.5,2,0.5
+vegetable,0.15,root vegetables,turnip,0.5,0.5,0.5,5,2,0.5,0.5,2,0.5
+vegetable,0.15,root vegetables,butternut,0.5,0.5,0.5,5,2,0.5,0.5,2,0.5
+vegetable,0.15,root vegetables,pumpkin,0.5,0.5,0.5,5,2,0.5,0.5,2,0.5
+vegetable,0.15,root vegetables,delicata,0.5,0.5,0.5,5,2,0.5,0.5,2,0.5
+vegetable,0.15,root vegetables,carrot,0.5,0.5,0.5,5,2,0.5,0.5,2,0.5
+vegetable,0.15,nightshades,tomoato,2,5,0.5,2,0.5,0.5,0.5,2,0.5
+vegetable,0.15,nightshades,eggplant,2,5,0.5,2,0.5,0.5,0.5,2,0.5
+vegetable,0.15,nightshades,bell pepper,2,5,0.5,2,0.5,0.5,0.5,2,0.5
+vegetable,0.15,funghi,crimini,2,5,5,0.5,5,0.5,0.5,0.5,0.5
+vegetable,0.15,funghi,maitake,2,5,5,0.5,5,0.5,0.5,0.5,0.5
+vegetable,0.15,funghi,chanterelle,2,5,5,0.5,5,0.5,0.5,0.5,0.5
+vegetable,0.15,funghi,portobello,2,5,5,0.5,5,0.5,0.5,0.5,0.5
+vegetable,0.15,nuts,peanut,0.5,0.5,2,2,2,2,2,5,0.5
+vegetable,0.15,nuts,almond,0.5,0.5,2,2,2,2,2,5,0.5
+vegetable,0.15,nuts,pecan,0.5,0.5,2,2,2,2,2,5,0.5
+vegetable,0.15,nuts,sesame,0.5,0.5,2,2,2,2,2,5,0.5
+vegetable,0.15,beans,lentil ,0.5,2,0.5,2,0.5,5,2,0.5,0.5
+vegetable,0.15,beans,navy,0.5,2,0.5,2,0.5,5,2,0.5,0.5
+vegetable,0.15,beans,pinto,0.5,2,0.5,2,0.5,5,2,0.5,0.5
+vegetable,0.15,beans,chickpea,0.5,2,0.5,2,0.5,5,2,0.5,0.5
+herb/spices,0.1,black pepper,black pepper,5,2,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+herb/spices,0.1,red pepper,ancho,2,5,0.5,2,0.5,2,2,2,0.5
+herb/spices,0.1,red pepper,aleppo,2,5,0.5,2,0.5,2,2,2,0.5
+herb/spices,0.1,red pepper,chipotle,2,5,0.5,2,0.5,2,2,2,0.5
+herb/spices,0.1,red pepper,chili,2,5,0.5,2,0.5,2,2,2,0.5
+herb/spices,0.1,hot/spicy,hot sauce,0.5,0.5,0.5,0.5,0.5,2,2,5,0.5
+herb/spices,0.1,hot/spicy,habanero,0.5,0.5,0.5,0.5,0.5,2,2,5,0.5
+herb/spices,0.1,hot/spicy,sichuan,0.5,0.5,0.5,0.5,0.5,2,2,5,0.5
+herb/spices,0.1,herbs,thyme,0.5,2,2,2,2,5,0.5,0.5,0.5
+herb/spices,0.1,herbs,oregano,0.5,2,2,2,2,5,0.5,0.5,0.5
+herb/spices,0.1,herbs,basil,0.5,2,2,2,2,5,0.5,0.5,0.5
+herb/spices,0.1,herbs,tarragon,0.5,2,2,2,2,5,0.5,0.5,0.5
+herb/spices,0.1,baking spices,cinnamon,0.5,2,0.5,2,0.5,0.5,0.5,2,5
+herb/spices,0.1,baking spices,clove,0.5,2,0.5,2,0.5,0.5,0.5,2,5
+herb/spices,0.1,baking spices,allspice,0.5,2,0.5,2,0.5,0.5,0.5,2,5
+herb/spices,0.1,baking spices,mace,0.5,2,0.5,2,0.5,0.5,0.5,2,5
+herb/spices,0.1,exotic/aromatic spices,anise,0.5,5,2,2,0.5,0.5,2,5,0.5
+herb/spices,0.1,exotic/aromatic spices,tumeric,0.5,5,2,2,0.5,0.5,2,5,0.5
+herb/spices,0.1,exotic/aromatic spices,saffron,0.5,5,2,2,0.5,0.5,2,5,0.5
+herb/spices,0.1,exotic/aromatic spices,fennel,0.5,5,2,2,0.5,0.5,2,5,0.5
+herb/spices,0.1,exotic/aromatic spices,ginger,0.5,5,2,2,0.5,0.5,2,5,0.5
+starches,0.05,white starches,flour,2,2,2,2,2,2,2,2,2
+starches,0.05,white starches,white rice,2,2,2,2,2,2,2,2,2
+starches,0.05,white starches,pasta,2,2,2,2,2,2,2,2,2
+starches,0.05,white starches,bread,2,2,2,2,2,2,2,2,2
+starches,0.05,white starches,tortillas,2,2,2,2,2,2,2,2,2
+starches,0.05,whole wheat grains,quinoa,0.5,0.5,2,2,2,0.5,0.5,5,0.5
+starches,0.05,whole wheat grains,farro,0.5,0.5,2,2,2,0.5,0.5,5,0.5
+starches,0.05,whole wheat grains,brown rice,0.5,0.5,2,2,2,0.5,0.5,5,0.5
+starches,0.05,sweet starchy vegetables,sweet potato,0.5,0.5,0.5,2,0.5,0.5,0.5,5,0.5
+starches,0.05,sweet starchy vegetables,yucca,0.5,0.5,0.5,2,0.5,0.5,0.5,5,0.5
+starches,0.05,sweet starchy vegetables,taro,0.5,0.5,0.5,2,0.5,0.5,0.5,5,0.5
+starches,0.05,potato,potato,2,2,2,2,2,2,2,2,0.5
+sweet,0.05,fruits/berries,strawberry,0.5,0.5,0.5,0.5,0.5,0.5,2,5,2
+sweet,0.05,fruits/berries,orange,0.5,0.5,0.5,0.5,0.5,0.5,2,5,2
+sweet,0.05,fruits/berries,apple,0.5,0.5,0.5,0.5,0.5,0.5,2,5,2
+sweet,0.05,fruits/berries,peach,0.5,0.5,0.5,0.5,0.5,0.5,2,5,2
+sweet,0.05,sweets,vanilla,0.5,0.5,0.5,0.5,0.5,0.5,0.5,2,2
+sweet,0.05,sweets,caramel,0.5,0.5,0.5,0.5,0.5,0.5,0.5,2,2
+sweet,0.05,sweets,creme brulee,0.5,0.5,0.5,0.5,0.5,0.5,0.5,2,2
+sweet,0.05,sweets,ice cream,0.5,0.5,0.5,0.5,0.5,0.5,0.5,2,2
+sweet,0.05,chocolate,chocolate,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,5
+sweet,0.05,coffee,coffee,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,5

@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by TEMPLATED
+http://templated.co
+Released for free under the Creative Commons Attribution License
+
+Name       : Breadth 
+Description: A two-column, fixed-width design with dark color scheme.
+Version    : 1.0
+Released   : 20140331
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link rel=“stylesheet” href=“https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css” integrity=“sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh” crossorigin=“anonymous”>
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
+<link href="{{ url_for('static', filename='css/default.css') }}" rel="stylesheet" type="text/css" media="all" />
+<link href="{{ url_for('static', filename='css/fonts.css') }}" rel="stylesheet" type="text/css" media="all" />
+
+
+
+<!--[if IE 6]><link href="default_ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+
+</head>
+<body>
+
+  <div id="header-wrapper">
+    <div id="header" class="container">
+      <div id="logo">
+        <h1><a  href="#">PocketSomm</a></h1>
+      </div>
+      <div id="menu">
+        <ul>
+          <li><a href="/" accesskey="1" title="">Homepage</a></li>
+          <li><a href="/predicted" accesskey="2" title="">Wine Predictor</a></li>
+          <li><a href="/grape_guide" accesskey="3" title="">Grape Guide</a></li>
+          <li><a href="/wine_map" accesskey="4" title="">Wine Map</a></li>
+          <li><a href="/analytics" accesskey="5" title="">Analytics</a></li>
+          <li class="current_page_item"><a href="/contact" accesskey="5" title="">About Us</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+    <br>
+    <div id="featured-grape" class = "container"><h2>Get in Touch!</h2>
+      <br>
+      <div class="row">
+        <div class="form-group">
+            <input type="text" class="form-control" placeholder="Name" name="">
+        </div>
+        <div class="form-group">
+            <input type="email" class="form-control" placeholder="Email Address" name="email">
+        </div>
+        <div class="form-group">
+            <textarea class="form-control" rows="5" placeholder="Leave a comment!" ></textarea>
+        </div>
+          <input type="submit" class="btn btn-secondary btn-block" value="Send" name="">
+      </div>
+
+    
+
+  
+
+
+
+        
+            
+    
+
+</header>
+  <div id="copyright" class="container">
+  <p>&copy; Untitled. All rights reserved. | Photos by <a href="http://fotogrph.com/">Fotogrph</a> | Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>.</p>
+</div>
+
+
+<!--js files-->
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script> 
+<script src="{{ url_for('static', filename='JS/wine_data.js') }}"></script>  
+
+</body>
+</html>

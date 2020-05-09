@@ -1,0 +1,173 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by TEMPLATED
+http://templated.co
+Released for free under the Creative Commons Attribution License
+
+Name       : Breadth 
+Description: A two-column, fixed-width design with dark color scheme.
+Version    : 1.0
+Released   : 20140331
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link rel=“stylesheet” href=“https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css” integrity=“sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh” crossorigin=“anonymous”>
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
+<link href="{{ url_for('static', filename='css/default.css') }}" rel="stylesheet" type="text/css" media="all" />
+<link href="{{ url_for('static', filename='css/fonts.css') }}" rel="stylesheet" type="text/css" media="all" />
+
+
+
+<!--[if IE 6]><link href="default_ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+
+</head>
+<body>
+
+  <div id="header-wrapper">
+    <div id="header" class="container">
+      <div id="logo">
+        <h1><a  href="#">PocketSomm</a></h1>
+      </div>
+      <div id="menu">
+        <ul>
+          <li><a href="/" accesskey="1" title="">Homepage</a></li>
+          <li><a href="/predicted" accesskey="2" title="">Wine Predictor</a></li>
+          <li class="current_page_item"><a href="#" accesskey="3" title="">Grape Guide</a></li>
+          <li><a href="/wine_map" accesskey="4" title="">Wine Map</a></li>
+          <li><a href="/analytics" accesskey="5" title="">Analytics</a></li>
+          <li><a href="/contact" accesskey="5" title="">About Us</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // function GetSelectedText(){
+		// 		let e = document.getElementById("#grapeOption");
+		// 		let result = e.a[e.selectedIndex].text;
+
+		// 		document.getElementById("result").innerHTML = result;
+    // 	}
+    function handler() {
+
+    let grapeOption = d3.select(option)
+
+    console.log(grapeOption)
+
+}
+  </script>
+
+<div class="navbar">
+  <div class="dropdown">
+    <button class="dropbtn">Bold Red</button>
+    <div class="dropdown-content" id="grapeOption">
+      <a href="#" >Cabernet Sauvignon</a>
+      <a href="#">Syrah</a>
+      <a href="#">Malbec</a>
+      <a href="#">Mourvedre</a>
+      <a href="#">Pinotage</a>
+      <a href="#">Petit Sirah</a>
+      <a href="#">Touriga Nacional</a>
+      <a href="#">Bordeaux Blend</a>
+    </div>
+  </div>
+  <div class="dropdown">
+    <button class="dropbtn">Medium Red</button>
+    <div class="dropdown-content">
+      <a href="#">Merlot</a>
+      <a href="#">Sangiovese</a>
+      <a href="#">Cabernet Franc</a>
+      <a href="#">Tempranillo</a>
+      <a href="#">Nebbiolo</a>
+      <a href="#">Barbera</a>
+      <a href="#">Rhône Blend</a>
+    </div>
+  </div>
+  <div class="dropdown">
+    <button class="dropbtn">Light Red</button>
+    <div class="dropdown-content">
+      <a href="#">Pinot Noir</a>
+      <a href="#">Grenache</a>
+      <a href="#">Gamay</a>
+      <a href="#">St. Laurent</a>
+    </div>
+  </div>
+  <div class="dropdown">
+    <button class="dropbtn">Rose</button>
+    <div class="dropdown-content">
+      <a href="#">Provence (Rosé)</a>
+      <a href="#">White Zinfandel</a>
+      <a href="#">Dry Rosé</a>
+    </div>
+  </div>
+  <div class="dropdown">
+    <button class="dropbtn">Rich White</button>
+    <div class="dropdown-content">
+      <a href="#">Chardonnay</a>
+      <a href="#">Gewürztraminer</a>
+      <a href="#">Viognier</a>
+      <a href="#">Marsanne Blend</a>
+    </div>
+  </div>
+  <div class="dropdown">
+    <button class="dropbtn">Light White</button>
+    <div class="dropdown-content">
+      <a href="#">Sauvignon Blanc</a>
+      <a href="#">Chenin Blanc</a>
+      <a href="#">Riesling</a>
+      <a href="#">Pinot Blanc</a>
+      <a href="#">Vermentino</a>
+      <a href="#">Melon De Bourgogne</a>
+      <a href="#">Garganega</a>
+      <a href="#">Trebbiano</a>
+      <a href="#">Pinot Grigio</a>
+    </div>
+  </div>
+  <div class="dropdown">
+    <button class="dropbtn">Sparkling</button>
+    <div class="dropdown-content">
+      <a href="#">Champagne</a>
+      <a href="#">Prosecco</a>
+      <a href="#">Crémant</a>
+      <a href="#">Cava</a>
+    </div>
+  </div>
+</div>
+
+
+
+<div id="featured-wine-wrapper">
+  <div id="featured-grape" class="container">
+    <div class="row">
+      <h1><b>Welcome to the Pocket Somm Grape Guide!</b></h1>
+    </div>
+    <div class="row"><h3 style = "color: white;"> <br>Here you will find information on the grape as well as wine tasting metrics. 
+      Select from the categories above to view the grape information.<br><br><br><br></h3></div>
+  </div>
+</div>
+
+
+
+
+</header>
+  <div id="copyright" class="container">
+  <p>&copy; Untitled. All rights reserved. | Photos by <a href="http://fotogrph.com/">Fotogrph</a> | Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>.</p>
+</div>
+
+
+<!--js files-->
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script> 
+<script type="text/javascript"> let wineSelection = '{{wine_selection}}'</script> 
+<script src="{{ url_for('static', filename='JS/wine_data.js') }}"></script> 
+
+</body>
+</html>
