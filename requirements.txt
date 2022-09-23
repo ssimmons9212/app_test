@@ -53,7 +53,7 @@ pathspec==0.8.0
 pickleshare==0.7.5
 prometheus-client==0.7.1
 prompt-toolkit==3.0.5
-protobuf==3.6.1
+protobuf==3.18.3
 Pygments==2.6.1
 PyMySQL==0.9.3
 pyparsing==3.0.0a1
